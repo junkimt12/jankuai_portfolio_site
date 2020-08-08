@@ -10283,10 +10283,6 @@ a.text-dark:focus {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
-.text-main-color {
-  color: var(--base-color);
-}
-
 .text-hide {
   font: 0/0 a;
   color: transparent;
@@ -10465,7 +10461,7 @@ hr.light {
   color: var(--white);
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: var(--base-color);
+  color: white;
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10475,10 +10471,10 @@ hr.light {
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover,
 #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: var(--base-color);
+  color: white;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: var(--base-color) !important;
+  color: white !important;
 }
 @media (min-width: 992px) {
   #mainNav {

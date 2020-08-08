@@ -2,6 +2,9 @@
   --base-color: #458766;
   --main-color: #bfeb55;
   --accent-color: #f9f68a;
+  --gradation-start-color: #7117ea;
+  --gradation-end-color: #ea6060;
+  --gradation-color: linear-gradient(135deg, #7117ea 0%, #ea6060 100%);
 
   --blue: #007bff;
   --indigo: #6610f2;
